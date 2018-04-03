@@ -87,3 +87,4 @@ iBase4J is released under version 2.0 of the [Apache License][].
 [iBase4J-UI-AdminLTE]: https://gitee.com/iBase4J/iBase4J/tree/master/iBase4J-UI/iBase4J-UI-AdminLTE
 
 hello
+check
